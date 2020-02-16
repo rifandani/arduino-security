@@ -10,5 +10,5 @@ Outputnya buzzer dan LCD
 
 ---
 
-Visit my github pages [rifandani](https://rifandani.github.io/)
+Visit my github pages [rifandani.github.io](https://rifandani.github.io/)
 
